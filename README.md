@@ -1,4 +1,4 @@
-This is a take home task that I did with Intercom as a part of my interview process. The task is basically finding a list of customers from a pool satisfying certain conditions.
+The task is basically finding a list of customers from a pool satisfying certain conditions.
 
 Source code is in folder 'src'. Corresponding tests for the source code can be found in 'tests'.
 
